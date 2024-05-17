@@ -12,7 +12,7 @@ Food waste is a prevalent problem in our communtiy. Many waste food for a variet
    * explain how to properly store ingredients
 
 By using Food Waste Watchers individuals can decrease the food waste in their households, properly plan the purchasing of groerceries by taking portion sizes into consideration, and learn how to store ingredients to increase their shelf life. 
-## Demo Video 
+## See how Food Waste Watchers works: Demo Video 
 
 https://github.com/anushkaj234/portfolio/assets/166770903/a33bfb02-be86-4c48-b6e9-9a68a84e7b02
 
